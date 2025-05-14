@@ -1,2 +1,2 @@
 # Spotify Clone
-Live Link - https://agarwal-ritik.github.io/Spotify-clone/
+Live Link - https://poojakumari-01.github.io/Spotify-Clone/
